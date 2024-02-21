@@ -1,0 +1,6 @@
+git+https://github.com/GamingBeast1/pyropatch
+motor
+TgCrypto
+Dnspython
+telebot
+pymongo
